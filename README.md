@@ -1,6 +1,6 @@
 [![Runbot Status](https://runbot.odoo-community.org/runbot/badge/flat/154/8.0.svg)](https://runbot.odoo-community.org/runbot/repo/github-com-oca-server-tools-154)
-[![Build Status](https://travis-ci.org/OCA/stock-logistics-workflow.svg?branch=8.0)](https://travis-ci.org/OCA/stock-logistics-workflow)
-[![Coverage Status](https://img.shields.io/coveralls/OCA/stock-logistics-workflow.svg)](https://coveralls.io/r/OCA/stock-logistics-workflow?branch=8.0)
+[![Build Status](https://travis-ci.org/zeroincombenze/stock-logistics-workflow.svg?branch=8.0)](https://travis-ci.org/zeroincombenze/stock-logistics-workflow)
+[![Coverage Status](https://img.shields.io/coveralls/zeroincombenze/stock-logistics-workflow.svg)](https://coveralls.io/r/zeroincombenze/stock-logistics-workflow?branch=8.0)
 
 Odoo Stock Logistic Workflow
 ===========================
