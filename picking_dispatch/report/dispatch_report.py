@@ -19,7 +19,7 @@
 #
 ##############################################################################
 from report import report_sxw
-import pooler
+from openerp import pooler
 import logging
 from os.path import commonprefix
 
@@ -142,6 +142,7 @@ class PrintDispatch(report_sxw.rml_parse):
             new_objects.append(DispatchAgregation(dispatch, moves_by_loc))
         return super(PrintDispatch, self).set_context(new_objects, data, ids,
                                                       report_type=report_type)
+
 
 report_sxw.report_sxw('report.webkit.dispatch_order',
                       'picking.dispatch',

@@ -26,6 +26,7 @@ from openerp.tools.translate import _
 
 
 class ProductObsolete(report_sxw.rml_parse):
+
     def __init__(self, cr, uid, name, context):
         super(ProductObsolete, self).__init__(cr, uid, name, context)
         self.localcontext.update({
@@ -60,7 +61,7 @@ class ProductObsolete(report_sxw.rml_parse):
     def set_context(self, objects, data, ids, report_type=None):
         prod_obj = self.pool.get('product.product')
         if (data.get('ids', False) and
-           data.get('model', False) == 'product.product'):
+                data.get('model', False) == 'product.product'):
             ids = [data['ids']]
         else:
             ids = prod_obj.search(self.cr, self.uid,
@@ -81,6 +82,7 @@ class ProductObsolete(report_sxw.rml_parse):
         objects.sort(o_compare)
         self.ids = [o.id for o in objects]
         self.localcontext['objects'] = objects
+
 
 report_sxw.report_sxw('report.product.obsolete',
                       'product.product',
