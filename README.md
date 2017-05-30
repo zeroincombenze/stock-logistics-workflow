@@ -1,6 +1,11 @@
-[![Runbot Status](https://runbot.odoo-community.org/runbot/badge/flat/154/8.0.svg)](https://runbot.odoo-community.org/runbot/repo/github-com-oca-server-tools-154)
 [![Build Status](https://travis-ci.org/zeroincombenze/stock-logistics-workflow.svg?branch=8.0)](https://travis-ci.org/zeroincombenze/stock-logistics-workflow)
-[![Coverage Status](https://img.shields.io/coveralls/zeroincombenze/stock-logistics-workflow.svg)](https://coveralls.io/r/zeroincombenze/stock-logistics-workflow?branch=8.0)
+[![license agpl](https://img.shields.io/badge/licence-AGPL--3-blue.svg)](http://www.gnu.org/licenses/agpl-3.0.html)
+[![Coverage Status](https://coveralls.io/repos/github/zeroincombenze/stock-logistics-workflow/badge.svg?branch=8.0)](https://coveralls.io/github/zeroincombenze/stock-logistics-workflow?branch=8.0)
+[![codecov](https://codecov.io/gh/zeroincombenze/stock-logistics-workflow/branch/8.0/graph/badge.svg)](https://codecov.io/gh/zeroincombenze/stock-logistics-workflow/branch/8.0)
+[![OCA_project](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-oca-8.svg)](https://github.com/OCA/stock-logistics-workflow/tree/8.0)
+[![Tech Doc](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-docs-8.svg)](http://wiki.zeroincombenze.org/en/Odoo/dev/8.0)
+[![Help](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-help-8.svg)](http://wiki.zeroincombenze.org/en/Odoo/8.0/stock-)
+[![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-8.svg)](http://erp8.zeroincombenze.it)
 
 Odoo Stock Logistic Workflow
 ===========================
@@ -79,3 +84,23 @@ Translation status
 ------------------
 
 [![Transifex Status](https://www.transifex.com/projects/p/OCA-stock-logistics-workflow-8-0/chart/image_png)](https://www.transifex.com/projects/p/OCA-stock-logistics-workflow-8-0)
+
+[//]: # (copyright)
+
+----
+
+**Odoo** is a trademark of [Odoo S.A.](https://www.odoo.com/) (formerly OpenERP, formerly TinyERP)
+
+**OCA**, or the [Odoo Community Association](http://odoo-community.org/), is a nonprofit organization whose
+mission is to support the collaborative development of Odoo features and
+promote its widespread use.
+
+**zeroincombenze®** is a trademark of [SHS-AV s.r.l.](http://www.shs-av.com/)
+which distributes and promotes **Odoo** ready-to-use on its own cloud infrastructure.
+[Zeroincombenze® distribution](http://wiki.zeroincombenze.org/en/Odoo)
+is mainly designed for Italian law and markeplace.
+Everytime, every Odoo DB and customized code can be deployed on local server too.
+
+[//]: # (end copyright)
+
+[![chat with us](https://www.shs-av.com/wp-content/chat_with_us.gif)](https://tawk.to/85d4f6e06e68dd4e358797643fe5ee67540e408b)
