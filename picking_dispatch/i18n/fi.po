@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: stock-logistics-workflow (8.0)\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-09-13 22:01+0000\n"
-"PO-Revision-Date: 2016-09-15 12:46+0000\n"
+"POT-Creation-Date: 2017-02-25 08:38+0000\n"
+"PO-Revision-Date: 2017-02-27 08:24+0000\n"
 "Last-Translator: OCA Transbot <transbot@odoo-community.org>\n"
 "Language-Team: Finnish (http://www.transifex.com/oca/OCA-stock-logistics-workflow-8-0/language/fi/)\n"
 "MIME-Version: 1.0\n"
@@ -88,7 +88,7 @@ msgstr ""
 #: view:picking.dispatch.creator:picking_dispatch.view_create_picking_dispatch
 #: view:picking.dispatch.start:picking_dispatch.view_picking_dispatch_start
 msgid "Cancel"
-msgstr ""
+msgstr "Peruuta"
 
 #. module: picking_dispatch
 #: selection:picking.dispatch,state:0
@@ -115,12 +115,12 @@ msgstr ""
 #. module: picking_dispatch
 #: model:ir.model,name:picking_dispatch.model_res_company
 msgid "Companies"
-msgstr ""
+msgstr "Yritykset"
 
 #. module: picking_dispatch
 #: field:picking.dispatch,company_id:0
 msgid "Company"
-msgstr ""
+msgstr "Yritys"
 
 #. module: picking_dispatch
 #: model:ir.actions.act_window,name:picking_dispatch.picking_dispatch_create_act_window
@@ -148,7 +148,7 @@ msgstr "Luotu"
 #. module: picking_dispatch
 #: field:picking.dispatch,date:0 field:picking.dispatch.creator,date:0
 msgid "Date"
-msgstr ""
+msgstr "Päivämäärä"
 
 #. module: picking_dispatch
 #: help:picking.dispatch.creator,date:0
@@ -222,7 +222,7 @@ msgstr "Valmis"
 #. module: picking_dispatch
 #: selection:picking.dispatch,state:0
 msgid "Draft"
-msgstr ""
+msgstr "Luonnos"
 
 #. module: picking_dispatch
 #: code:addons/picking_dispatch/picking_dispatch.py:187
@@ -232,7 +232,7 @@ msgstr ""
 #: code:addons/picking_dispatch/wizard/dispatch_start.py:46
 #, python-format
 msgid "Error"
-msgstr ""
+msgstr "Virhe"
 
 #. module: picking_dispatch
 #: view:website:picking_dispatch.report_picking_dispatch
@@ -242,7 +242,7 @@ msgstr ""
 #. module: picking_dispatch
 #: view:picking.dispatch:picking_dispatch.picking_dispatch_search
 msgid "Group By..."
-msgstr ""
+msgstr "Ryhmittele..."
 
 #. module: picking_dispatch
 #: field:picking.dispatch,id:0 field:picking.dispatch.assign.picker,id:0
@@ -310,7 +310,7 @@ msgstr ""
 #. module: picking_dispatch
 #: field:picking.dispatch,name:0 field:picking.dispatch.creator,name:0
 msgid "Name"
-msgstr ""
+msgstr "Nimi"
 
 #. module: picking_dispatch
 #: help:picking.dispatch,name:0 help:picking.dispatch.creator,name:0
@@ -340,7 +340,7 @@ msgstr ""
 #: view:picking.dispatch:picking_dispatch.picking_dispatch_form
 #: field:picking.dispatch,notes:0 field:picking.dispatch.creator,notes:0
 msgid "Notes"
-msgstr ""
+msgstr "Huomautukset"
 
 #. module: picking_dispatch
 #: view:picking.dispatch:picking_dispatch.picking_dispatch_search
@@ -401,7 +401,7 @@ msgstr ""
 #. module: picking_dispatch
 #: model:ir.model,name:picking_dispatch.model_stock_picking
 msgid "Picking List"
-msgstr ""
+msgstr "Keräilylista"
 
 #. module: picking_dispatch
 #: model:ir.actions.report.xml,name:picking_dispatch.action_report_picking_dispatch
@@ -437,7 +437,7 @@ msgstr ""
 #. module: picking_dispatch
 #: view:website:picking_dispatch.report_picking_dispatch
 msgid "QTY"
-msgstr ""
+msgstr "Määrä"
 
 #. module: picking_dispatch
 #: view:picking.dispatch:picking_dispatch.picking_dispatch_search
@@ -559,7 +559,7 @@ msgstr ""
 #: view:picking.dispatch.creator:picking_dispatch.view_create_picking_dispatch
 #: view:picking.dispatch.start:picking_dispatch.view_picking_dispatch_start
 msgid "or"
-msgstr ""
+msgstr "tai"
 
 #. module: picking_dispatch
 #: view:picking.dispatch:picking_dispatch.picking_dispatch_search
