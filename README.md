@@ -3,12 +3,15 @@
 [![Coverage Status](https://coveralls.io/repos/github/zeroincombenze/stock-logistics-workflow/badge.svg?branch=10.0)](https://coveralls.io/github/zeroincombenze/stock-logistics-workflow?branch=10.0)
 [![codecov](https://codecov.io/gh/zeroincombenze/stock-logistics-workflow/branch/10.0/graph/badge.svg)](https://codecov.io/gh/zeroincombenze/stock-logistics-workflow/branch/10.0)
 [![OCA_project](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-oca-10.svg)](https://github.com/OCA/stock-logistics-workflow/tree/10.0)
-[![Tech Doc](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-docs-10.svg)](http://wiki.zeroincombenze.org/en/Odoo/dev/10.0)
-[![Help](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-help-10.svg)](http://wiki.zeroincombenze.org/en/Odoo/10.0/stock-)
+[![Tech Doc](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-docs-10.svg)](http://wiki.zeroincombenze.org/en/Odoo/10.0/dev)
+[![Help](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-help-10.svg)](http://wiki.zeroincombenze.org/en/Odoo/10.0/man/LO)
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-10.svg)](http://erp10.zeroincombenze.it)
 
+
+[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
+================================================================================================
+
 Odoo Stock Logistic Workflow
-===========================
 
 This project aims to deal with modules related to manage logistic flows. You'll find modules that:
 
@@ -26,7 +29,6 @@ Please don't hesitate to suggest one of your module to this project. Also, you m
 [//]: # (addons)
 
 Available addons
-----------------
 addon | version | summary
 --- | --- | ---
 [product_expiry_simple](product_expiry_simple/) | 10.0.1.0.0 | Simpler and better alternative to the official product_expiry module
@@ -42,7 +44,6 @@ addon | version | summary
 
 
 Unported addons
----------------
 addon | version | summary
 --- | --- | ---
 [picking_dispatch_wave](picking_dispatch_wave/) | 0.1 (unported) | Picking Dispatch Wave
