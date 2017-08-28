@@ -10,6 +10,7 @@
 
 [![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
 ================================================================================================
+================================================================================================
 
 Odoo Stock Logistic Workflow
 
@@ -28,7 +29,9 @@ Please don't hesitate to suggest one of your module to this project. Also, you m
 
 [//]: # (addons)
 
+
 Available addons
+----------------
 addon | version | summary
 --- | --- | ---
 [product_expiry_simple](product_expiry_simple/) | 10.0.1.0.0 | Simpler and better alternative to the official product_expiry module
@@ -45,6 +48,7 @@ addon | version | summary
 
 
 Unported addons
+---------------
 addon | version | summary
 --- | --- | ---
 [picking_dispatch_wave](picking_dispatch_wave/) | 0.1 (unported) | Picking Dispatch Wave
