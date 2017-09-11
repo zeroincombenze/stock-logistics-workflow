@@ -24,6 +24,7 @@ Installation
 
 
 
+
  * This module depends only on the **stock_picking_package_preparation** module.
 
 Configuration
@@ -31,9 +32,12 @@ Configuration
 
 
 
+
  * No special setup
 
 Usage
+-----
+
 -----
 
 -----
@@ -50,8 +54,10 @@ Known issues / Roadmap
 ----------------------
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -65,10 +71,13 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
+
 ### Contributors
+
 
 
 
@@ -79,6 +88,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 
