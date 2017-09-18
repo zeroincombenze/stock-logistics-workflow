@@ -34,6 +34,7 @@ Installation
 
 
 
+
 To install this module, you need to:
 
 * Click on install button
@@ -44,11 +45,14 @@ Configuration
 
 
 
+
 To configure this module, you need to:
 
 * Set the flag "Automatic" on procurement rule
 
 Usage
+-----
+
 -----
 
 -----
@@ -66,8 +70,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -88,6 +94,7 @@ Credits
 
 
 
+
 Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
@@ -96,7 +103,9 @@ Images
 
 
 
+
 ### Contributors
+
 
 
 
@@ -107,6 +116,8 @@ Images
 ### Funders
 
 ### Maintainer
+
+
 
 
 
