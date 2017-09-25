@@ -31,6 +31,7 @@ Installation
 
 
 
+
 To install this module, you need to:
 
 * Click on install button
@@ -42,11 +43,14 @@ Configuration
 
 
 
+
 To configure this module, you need to:
 
 * define backorder strategy on picking type (Warehouse > Configuration > Types of Operation)
 
 Usage
+-----
+
 -----
 
 -----
@@ -71,8 +75,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -90,7 +96,9 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -101,11 +109,14 @@ Credits
 
 
 
+
 * Laetitia Gangloff <laetitia.gangloff@acsone.eu>
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 

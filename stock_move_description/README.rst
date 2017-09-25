@@ -23,8 +23,10 @@ Installation
 
 
 
+
 Configuration
 -------------
+
 
 
 
@@ -44,14 +46,18 @@ Usage
 
 -----
 
+-----
+
 Known issues / Roadmap
 ----------------------
 
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -69,7 +75,9 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
+
 
 
 
@@ -80,11 +88,14 @@ Credits
 
 
 
+
 * Alex Comba <alex.comba@agilebg.com>
 
 ### Funders
 
 ### Maintainer
+
+
 
 
 

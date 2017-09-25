@@ -28,6 +28,7 @@ Installation
 
 
 
+
 This module only needs `stock` module.
 
 Configuration
@@ -36,7 +37,10 @@ Configuration
 
 
 
+
 Usage
+-----
+
 -----
 
 -----
@@ -68,11 +72,13 @@ Known issues / Roadmap
 
 
 
+
 * When splitting a picking in an unassigned state, wizard won't
   be auto completed with picking lines.
 
 Bug Tracker
 -----------
+
 
 
 
@@ -89,6 +95,7 @@ Credits
 
 
 
+
 Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
@@ -98,7 +105,9 @@ Images
 
 
 
+
 ### Contributors
+
 
 
 
@@ -112,6 +121,8 @@ Images
 ### Funders
 
 ### Maintainer
+
+
 
 
 

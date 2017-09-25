@@ -23,8 +23,10 @@ Installation
 
 
 
+
 Configuration
 -------------
+
 
 
 
@@ -34,6 +36,8 @@ Installing this module, the setting to show owners will be enabled
 automatically.
 
 Usage
+-----
+
 -----
 
 -----
@@ -69,8 +73,10 @@ Known issues / Roadmap
 
 
 
+
 Bug Tracker
 -----------
+
 
 
 
@@ -89,12 +95,15 @@ Credits
 
 
 
+
 [![Odoo Italia Associazione]]
 
 
 
 
+
 ### Contributors
+
 
 
 
@@ -106,6 +115,8 @@ Credits
 ### Funders
 
 ### Maintainer
+
+
 
 
 

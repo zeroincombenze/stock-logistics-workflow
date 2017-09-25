@@ -29,6 +29,7 @@ Installation
 
 
 
+
  * This module depends only on the **stock** module.
 
 Configuration
@@ -38,9 +39,12 @@ Configuration
 
 
 
+
  * No special setup
 
 Usage
+-----
+
 -----
 
 -----
@@ -77,11 +81,13 @@ Known issues / Roadmap
 
 
 
+
  * No printed document for the preparation
 
 
 Bug Tracker
 -----------
+
 
 
 
@@ -99,6 +105,7 @@ Credits
 
 
 
+
 Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
@@ -108,7 +115,9 @@ Images
 
 
 
+
 ### Contributors
+
 
 
 
@@ -121,6 +130,8 @@ Images
 ### Funders
 
 ### Maintainer
+
+
 
 
 
