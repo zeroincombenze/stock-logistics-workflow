@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Stock Picking Package Preparation
+=================================
 
 This module adds a new document in the Warehouse menu: **Package
 Preparation**. It works on a selection of pickings and allows to add
@@ -43,6 +44,8 @@ Configuration
  * No special setup
 
 Usage
+-----
+
 -----
 
 -----
@@ -110,7 +113,6 @@ Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
-[![Odoo Italia Associazione]]
 
 
 

@@ -14,6 +14,7 @@
 =========================
 
 Stock move description
+======================
 
 This module allows to use only the product description on the stock moves.
 
@@ -38,6 +39,8 @@ This is possible by selecting the related option in the following menu:
 * Settings --> Configuration --> Warehouse --> Products
 
 Usage
+-----
+
 -----
 
 -----
@@ -76,7 +79,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

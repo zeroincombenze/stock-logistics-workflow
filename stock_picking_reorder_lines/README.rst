@@ -14,6 +14,7 @@
 =========================
 
 Stock picking lines with sequence number
+========================================
 
 Provide a new field on stock moves, allowing to manage the orders of moves
 in a picking.
@@ -38,6 +39,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -77,7 +80,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

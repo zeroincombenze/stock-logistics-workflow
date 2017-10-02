@@ -14,6 +14,7 @@
 =========================
 
 Stock Batch Picking
+===================
 
 This module is based on `picking_dispatch <https://github.com/OCA/stock-logistics-workflow/tree/8.0/picking_dispatch>`_
 but reworked for matching Odoo 9 new picking system (with pack operations).
@@ -60,6 +61,8 @@ Usage
 
 -----
 
+-----
+
 Known issues / Roadmap
 ----------------------
 
@@ -94,7 +97,6 @@ Images
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
 
-[![Odoo Italia Associazione]]
 
 
 

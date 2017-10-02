@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Product Expiry Simple
+=====================
 
 This module is similar to the official `product_expiry <https://www.odoo.com/apps/modules/10.0/product_expiry/>`_ module that adds support for *Expiry Dates* on products, but it is both simpler and better:
 
@@ -46,6 +47,8 @@ Configuration
 No configuration needed.
 
 Usage
+-----
+
 -----
 
 -----
@@ -90,7 +93,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

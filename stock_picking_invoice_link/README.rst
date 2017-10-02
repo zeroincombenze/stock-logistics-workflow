@@ -14,6 +14,7 @@
 =========================
 
 Link between the invoice and its source picking
+===============================================
 
 This module adds a link between pickings and generated invoices.
 So that user can easily reach the invoice related to the picking
@@ -35,6 +36,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -73,7 +76,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

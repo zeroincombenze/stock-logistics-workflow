@@ -16,6 +16,7 @@
    :alt: License: LGPL-3
 
 Stock Delivery Internal
+=======================
 
 This module adds the concept of an internal delivery carrier to `delivery
 .carrier`. When the `delivery_type` of a carrier is set to `Internal`, any
@@ -44,6 +45,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -91,7 +94,6 @@ Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
-[![Odoo Italia Associazione]]
 
 
 

@@ -14,6 +14,7 @@
 =========================
 
 Picking backordering strategies
+===============================
 
 In types of operation add a backorder strategy to be able to cancel created
 backorder or to avoid to create a backorder.
@@ -49,6 +50,8 @@ To configure this module, you need to:
 * define backorder strategy on picking type (Warehouse > Configuration > Types of Operation)
 
 Usage
+-----
+
 -----
 
 -----
@@ -97,7 +100,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

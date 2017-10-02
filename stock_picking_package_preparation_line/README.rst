@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Stock Picking Package Preparation
+=================================
 
 This module adds a new class on **Package Preparation** to manage details
 related with stock move or not
@@ -40,6 +41,8 @@ Configuration
  * No special setup
 
 Usage
+-----
+
 -----
 
 -----
@@ -86,7 +89,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

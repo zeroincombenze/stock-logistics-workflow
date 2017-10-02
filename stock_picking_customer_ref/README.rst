@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Stock picking customer reference
+================================
 
 This module displays the sale reference/description in the pickings. It also
 allows you to filter and search for this new field.
@@ -34,6 +35,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -85,7 +88,6 @@ Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
-[![Odoo Italia Associazione]]
 
 
 

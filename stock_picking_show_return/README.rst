@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Display returns on stock pickings
+=================================
 
 This module adds one tab in the pickings form view to display the returns
 pickings related to the current one.
@@ -34,6 +35,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -81,7 +84,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

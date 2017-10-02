@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Split picking
+=============
 
 This module adds a "Split" button on the outgoing pickings form.
 
@@ -39,6 +40,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -100,7 +103,6 @@ Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
-[![Odoo Italia Associazione]]
 
 
 

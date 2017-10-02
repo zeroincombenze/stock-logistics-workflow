@@ -13,6 +13,7 @@
 ================================================================================================
 
 Odoo Stock Logistic Workflow
+============================
 
 This project aims to deal with modules related to manage logistic flows. You'll find modules that:
 

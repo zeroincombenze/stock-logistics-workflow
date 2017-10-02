@@ -14,6 +14,7 @@
 =========================
 
 Stock Picking Deliver UOS
+=========================
 
 This module adds two fields, uos and uos quantity to Stock Transfer Details
 wizard allowing the user to use the uos quantity (instead of the standard uom)
@@ -41,6 +42,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -79,7 +82,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

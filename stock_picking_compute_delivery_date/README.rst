@@ -14,6 +14,7 @@
 =========================
 
 Stock Picking Compute Delivery Date
+===================================
 
 This module allows to recompute the delivery dates of outgoing Moves based on
 the dates of incoming Moves for the same product. That means that for every
@@ -102,6 +103,8 @@ Usage
 
 -----
 
+-----
+
 Known issues / Roadmap
 ----------------------
 
@@ -131,7 +134,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 

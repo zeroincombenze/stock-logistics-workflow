@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Automatic Move Processing
+=========================
 
 This modules adds the possibility to have move automatically processed as soon
 as the products are available in the move source location.
@@ -53,6 +54,8 @@ To configure this module, you need to:
 * Set the flag "Automatic" on procurement rule
 
 Usage
+-----
+
 -----
 
 -----
@@ -106,7 +109,6 @@ Images
 
 * Odoo Community Association: `Icon <https://github.com/OCA/maintainer-tools/blob/master/template/module/static/description/icon.svg>`_.
 
-[![Odoo Italia Associazione]]
 
 
 

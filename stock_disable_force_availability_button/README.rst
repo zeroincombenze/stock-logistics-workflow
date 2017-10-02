@@ -15,6 +15,7 @@
    :alt: License: AGPL-3
 
 Disable force availability button
+=================================
 
 This module creates a security group that limits the visibility of "Force
 availability" button on stock operations to those that belong to this group.
@@ -34,6 +35,8 @@ Configuration
 
 
 Usage
+-----
+
 -----
 
 -----
@@ -79,7 +82,6 @@ Credits
 
 
 
-[![Odoo Italia Associazione]]
 
 
 
