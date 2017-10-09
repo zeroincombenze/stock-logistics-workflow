@@ -40,6 +40,8 @@ Usage
 
 -----
 
+-----
+
 =====
 
 This module adds a button *Split multiple units* on the lines of the
