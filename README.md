@@ -8,9 +8,9 @@
 [![try it](http://www.zeroincombenze.it/wp-content/uploads/ci-ct/prd/button-try-it-10.svg)](http://erp10.zeroincombenze.it)
 
 
-[![en](https://github.com/zeroincombenze/grymb/blob/master/flags/en_US.png)](https://www.facebook.com/groups/openerp.italia/)
-================================================================================================
-================================================================================================
+
+
+[![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
 
 Odoo Stock Logistic Workflow
 ============================
@@ -70,7 +70,7 @@ addon | version | OCA version | summary
 [stock_picking_invoice_link](stock_picking_invoice_link/) | 8.0.1.0.0 (unported) | :repeat: | Adds link between pickings and generated invoices
 [stock_picking_mass_assign](stock_picking_mass_assign/) | 9.0.1.0.0 (unported) | :repeat: | Delivery Orders Mass Assign
 [stock_picking_priority](stock_picking_priority/) | 0.2 (unported) | :repeat: | Picking Priority
-[stock_picking_reorder_lines](stock_picking_reorder_lines/) | 8.0.0.1.0 (unported) | :repeat: | Provide a new field on stock moves, allowing to manage the orders of moves in a picking.
+[stock_picking_reorder_lines](stock_picking_reorder_lines/) | 8.0.0.1.0 (unported) | :x: | Provide a new field on stock moves, allowing to manage the orders of moves in a picking.
 [stock_sale_filters](stock_sale_filters/) | 1.3 (unported) | :repeat: | SO related filters on stock.picking and sale.order
 [stock_transfer_split_multi](stock_transfer_split_multi/) | 8.0.1.0.0 (unported) | :repeat: | In the stock transfer wizard, you can split by multiple units
 
