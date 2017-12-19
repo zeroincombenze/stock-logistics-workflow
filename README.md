@@ -18,6 +18,8 @@
 
 
 
+
+
 [![en](http://www.shs-av.com/wp-content/en_US.png)](http://wiki.zeroincombenze.org/it/Odoo/7.0/man)
 
 Odoo Stock Logistic Workflow
@@ -75,7 +77,7 @@ addon | version | OCA version | summary
 [stock_picking_backorder_strategy](stock_picking_backorder_strategy/) | 8.0.0.1.0 (unported) | :repeat: | Picking backordering strategies
 [stock_picking_compute_delivery_date](stock_picking_compute_delivery_date/) | 8.0.1.1.0 (unported) | :repeat: | Stock Picking Compute Delivery Date
 [stock_picking_deliver_uos](stock_picking_deliver_uos/) | 8.0.1.0.0 (unported) | :repeat: | Adds fields uos and uos_quantity to Stock Transfer Details
-[stock_picking_invoice_link](stock_picking_invoice_link/) | 8.0.1.0.0 (unported) | :repeat: | Adds link between pickings and generated invoices
+[stock_picking_invoice_link](stock_picking_invoice_link/) | 8.0.1.0.0 (unported) | 10.0.1.0.0 | Adds link between pickings and generated invoices
 [stock_picking_mass_assign](stock_picking_mass_assign/) | 9.0.1.0.0 (unported) | :repeat: | Delivery Orders Mass Assign
 [stock_picking_priority](stock_picking_priority/) | 0.2 (unported) | :repeat: | Picking Priority
 [stock_picking_reorder_lines](stock_picking_reorder_lines/) | 8.0.0.1.0 (unported) | :x: | Provide a new field on stock moves, allowing to manage the orders of moves in a picking.
