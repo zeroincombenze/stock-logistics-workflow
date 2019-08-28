@@ -62,10 +62,12 @@ class StockPickingPackagePreparation(models.Model):
         string='Document Date',
         default=fields.Datetime.now,
         states=FIELDS_STATES,
+        copy=False
     )
     date_done = fields.Datetime(
         string='Shipping Date',
         readonly=True,
+        copy=False,
     )
     company_id = fields.Many2one(
         comodel_name='res.company',
@@ -135,7 +137,8 @@ class StockPickingPackagePreparation(models.Model):
             raise UserError(
                 _('The package has not been generated.')
             )
-        for picking in self.picking_ids:
+        for picking in self.picking_ids.filtered(
+                lambda x: x.state not in ['done', 'cancel']):
             picking.do_transfer()
         self.write({'state': 'done', 'date_done': fields.Datetime.now()})
 
@@ -204,7 +207,7 @@ class StockPickingPackagePreparation(models.Model):
             for record in operation.linked_move_operation_ids:
                 moves |= record.move_id
             for move in moves:
-                moves.check_tracking(operation)
+                move.check_tracking(operation)
 
             operation.qty_done = operation.product_qty
 

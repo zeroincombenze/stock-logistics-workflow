@@ -90,6 +90,8 @@ class StockPickingPackagePreparation(models.Model):
             # Collect new pickings to read the change
             changed_picking_ids = []
             for picking_ids in values['picking_ids']:
+                if picking_ids[0] == 1:
+                    changed_picking_ids.append(picking_ids[1])
                 if picking_ids[0] == 6:
                     changed_picking_ids.extend(picking_ids[2])
             for pack in self:
@@ -180,9 +182,12 @@ class StockPickingPackagePreparation(models.Model):
                         })
                 # Set the picking as "To DO" and try to set it as
                 # assigned
+                # skip_update_line_ids because picking is created based on
+                # preparation lines, updating lines would erase some fields
+                picking = picking.with_context(skip_update_line_ids=True)
                 picking.action_confirm()
                 # Show an error if a picking is not confirmed
-                if picking.state != 'confirmed':
+                if picking.state not in ['confirmed', 'assigned']:
                     raise UserError(
                         _('Impossible to create confirmed picking. '
                           'Please Check products availability!'))
